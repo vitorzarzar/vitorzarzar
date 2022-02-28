@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vitorzarzar/vitorzarzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi!
+## I’m currently
 
-<p align='left'>
-    📍Living on São Paulo, Brazil;<br />
-    👨‍💻 Working at CPQi as a outsourcing for BTG Pactual;<br />
-</p>
+📍Living on São Paulo, Brazil;<br />
+👨‍💻 Working at CPQi as BTG Pactual outsource;<br />
 
 ## 👨‍💻Technologies
 <p>
