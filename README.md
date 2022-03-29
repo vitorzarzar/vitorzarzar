@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📍 Living on São Paulo, Brazil<br />
 👨‍💻 Working at CPQi as BTG Pactual outsource<br />
 
-## 👨‍💻Technologies
+## Technologies
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-E95420?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-## 📫 Contacts
+## Contacts
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorzarzar/)
 
