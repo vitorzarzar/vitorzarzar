@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## I’m currently
 
-📍 Living on São Paulo, Brazil<br />
-👨‍💻 Working at CPQi as BTG Pactual outsource<br />
+📍 Living on Utrecht, Netherlands<br />
+👨‍💻 Working at bol.com<br />
 
 ## Technologies
 <p>
